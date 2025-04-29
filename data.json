@@ -1,0 +1,111 @@
+{
+  "jojo": {
+    "username": "jojo",
+    "password": "newpassword",
+    "name": "Jotaro",
+    "surname": "Jostar",
+    "booking": [
+      {
+        "username": "jojo",
+        "time": "14:14",
+        "date": "2025-05-01",
+        "bookingType": "Installation",
+        "reason": "Solor Panel",
+        "consultant": "Mr jeff",
+        "cost": 10918.0
+      },
+      {
+        "username": "jojo",
+        "time": "14:14",
+        "date": "2025-05-01",
+        "bookingType": "Installation",
+        "reason": "Solor Panel",
+        "consultant": "Mr jeff",
+        "cost": 31696.0
+      },
+      {
+        "username": "jojo",
+        "time": "14:38",
+        "date": "2025-04-11",
+        "bookingType": "Installation",
+        "reason": "grfeagrea",
+        "consultant": "Mr jeff",
+        "cost": 17353.0
+      },
+      {
+        "username": "jojo",
+        "time": "14:38",
+        "date": "2025-04-11",
+        "bookingType": "Installation",
+        "reason": "grfeagrea",
+        "consultant": "Mr jeff",
+        "cost": 43301.0
+      },
+      {
+        "username": "jojo",
+        "time": "14:38",
+        "date": "2025-04-12",
+        "bookingType": "Installation",
+        "reason": "grweagber",
+        "consultant": "Mr jeff",
+        "cost": 39541.0
+      }
+    ]
+  },
+  "user3": {
+    "username": "user3",
+    "password": "zawardo",
+    "name": "string",
+    "surname": "string",
+    "booking": [
+      {
+        "username": "user3",
+        "time": "string",
+        "date": "string",
+        "bookingType": "string",
+        "reason": "string",
+        "consultant": "Mr jeff",
+        "cost": 48729.0
+      },
+      {
+        "username": "user3",
+        "time": "string",
+        "date": "string",
+        "bookingType": "string",
+        "reason": "string",
+        "consultant": "Mr jeff",
+        "cost": 8278.0
+      },
+      {
+        "username": "user3",
+        "time": "string",
+        "date": "string",
+        "bookingType": "string",
+        "reason": "string",
+        "consultant": "Mr jeff",
+        "cost": 42873.0
+      },
+      {
+        "username": "user3",
+        "time": "string",
+        "date": "string",
+        "bookingType": "string",
+        "reason": "string",
+        "consultant": "Mr jeff",
+        "cost": 18497.0
+      }
+    ]
+  },
+  "fcsdagf": {
+    "username": "jojo",
+    "password": "zawardo",
+    "name": "fcsdagf",
+    "surname": "dsgvdsgvws"
+  },
+  "string": {
+    "username": "user3",
+    "password": "zawardo",
+    "name": "string",
+    "surname": "string"
+  }
+}
